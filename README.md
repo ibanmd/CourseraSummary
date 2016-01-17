@@ -45,7 +45,7 @@ This document is a summary of Coursera courses I have finished:
 - Developing Data Products
   - [verified certificate](https://www.coursera.org/account/accomplishments/certificate/RXCTEW2P8A)
   - [github repository](https://github.com/ibanmd/JHU_Data_Products)
-  - ["shiny app" web application][https://ibanmd.shinyapps.io/MarioKartShiny/]
+  - ["shiny app" web application](https://ibanmd.shinyapps.io/MarioKartShiny/)
 - Capstone (coming soon...)
 
 ## Machine Learning - University of Washington
@@ -58,5 +58,5 @@ This document is a summary of Coursera courses I have finished:
   - [verified certificate](https://www.coursera.org/account/accomplishments/certificate/XTZWUKAVVD)
 - Introduction Part 2 (coming soon)
 - Principles Part 1
-- [verified certificate](https://www.coursera.org/account/accomplishments/certificate/6RW39NVHLU)
+  - [verified certificate](https://www.coursera.org/account/accomplishments/certificate/6RW39NVHLU)
 - Principles Part 2 (coming soon)
