@@ -2,11 +2,13 @@
 This document is a summary of Coursera courses I have finished:
 
 ## Big Data - UCSD   
-[Specialization homepage]()
+[Specialization homepage](https://www.coursera.org/specializations/big-data)
+- Introduction to Big Data
+  - [verified certificate](https://www.coursera.org/account/accomplishments/certificate/LKQ9G8DNLEN9)
+- Hadoop Platform and Application Framework (coming soon)
 
 ## Excel to MySQL - Duke
 [Specialization homepage](https://www.coursera.org/specializations/excel-mysql)
-
 - Business Metrics for Data-Driven Companies
   - [verified certificate](https://www.coursera.org/account/accomplishments/certificate/W7KFCNQAF9XZ)
 - Mastering Data Analysis in Excel (coming soon)
@@ -14,7 +16,6 @@ This document is a summary of Coursera courses I have finished:
 
 ## Data Science - Johns Hopkins
 [Specialization homepage] (https://www.coursera.org/specializations/jhu-data-science)
-
 - The Data Scientist's Toolbox
   - [verified certificate](https://www.coursera.org/account/accomplishments/certificate/Z23BX3N8Z3)
 - R Programming
@@ -48,7 +49,14 @@ This document is a summary of Coursera courses I have finished:
 - Capstone (coming soon...)
 
 ## Machine Learning - University of Washington
-[Specialization homepage]()
+[Specialization homepage](https://www.coursera.org/specializations/machine-learning)
+- Machine Learning Foundations
 
 ## Fundamental of Computing - Rice
-[Specialization homepage]()
+[Specialization homepage](https://www.coursera.org/specializations/fundamentalscomputing2)
+- Introduction Part 1
+  - [verified certificate](https://www.coursera.org/account/accomplishments/certificate/XTZWUKAVVD)
+- Introduction Part 2 (coming soon)
+- Principles Part 1
+- [verified certificate](https://www.coursera.org/account/accomplishments/certificate/6RW39NVHLU)
+- Principles Part 2 (coming soon)
